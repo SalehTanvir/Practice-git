@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.first_section{
+    display: flex;
+    background-image:url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half_one img{
+    width: 75%;
+    margin-top: 20%;
+    padding-left: 20%;
+    
+}
+.half_two p{
+    text-align: justify;
+    width: 70%;
+}
+.half_two{
+    padding-left: 10%;
+}
+button{
+    font-family: 'Raleway', sans-serif;
+    padding: 20 20 10 20;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 0;
+    background-image: linear-gradient(green,lightgreen ,yellow);
+}
